@@ -2,7 +2,7 @@
   "name": "loop-monitoring",
   "version": "0.0.1",
   "description": "Loop Monitoring Libs and store to mongodb",
-  "main": "index.js",
+  "main": "lib/index.js",
   "preferGlobal": true,
   "directories": {
     "example": "example",
