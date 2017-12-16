@@ -1,0 +1,22 @@
+[
+	{
+		"serviceName":"Service 1",
+		"serviceUrl":"http://localhost:8080"
+	},
+	{
+		"serviceName":"Service 2",
+		"serviceUrl":"http://localhost:9807"
+	},
+	{
+		"serviceName":"Service 3",
+		"serviceUrl":"http://localhost:4500"
+	},
+	{
+		"serviceName":"Service 4",
+		"serviceUrl":"http://localhost:7787"
+	},
+	{
+		"serviceName":"Service 5",
+		"serviceUrl":"http://localhost:7966"
+	}
+]

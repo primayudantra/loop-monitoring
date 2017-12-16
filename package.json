@@ -1,0 +1,36 @@
+{
+  "name": "loop-monitoring",
+  "version": "0.0.1",
+  "description": "Loop Monitoring Libs and store to mongodb",
+  "main": "index.js",
+  "preferGlobal": true,
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cron": "^1.3.0",
+    "moment": "^2.19.4",
+    "mongoist": "^1.5.1",
+    "request-promise": "^4.2.2",
+    "request": "^2.83.0",
+    "rp": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loop",
+    "monitoring",
+    "mongodb",
+    "middleware",
+    "app",
+    "api",
+    "json",
+    "rest",
+    "restful"
+  ],
+  "author": "primayudantra <prima.yudantra@gmail.com>",
+  "license": "MIT"
+}
