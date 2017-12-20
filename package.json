@@ -32,5 +32,12 @@
     "restful"
   ],
   "author": "primayudantra <prima.yudantra@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primayudantra/loop-monitoring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/primayudantra/loop-monitoring/issues"
+  }
 }
